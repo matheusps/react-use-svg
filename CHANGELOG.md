@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.3.1] - 2018-12-03
+### Changed
+- Size and viewbox to 16 and '0 0 16 16'.
+
 ## [0.3.0] - 2018-11-21
 ### Added
 - Icon component.
